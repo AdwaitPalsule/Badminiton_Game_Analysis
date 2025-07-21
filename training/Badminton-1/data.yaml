@@ -1,0 +1,13 @@
+names:
+- racket
+- shuttle
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: badminton-9wbql-romcs
+  url: https://universe.roboflow.com/opencv-bccvi/badminton-9wbql-romcs/dataset/1
+  version: 1
+  workspace: opencv-bccvi
+test: ../test/images
+train: ../train/images
+val: ../valid/images
